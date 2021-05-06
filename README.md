@@ -1,47 +1,11 @@
-👍推荐 [在线阅读](https://snailclimb.gitee.io/javaguide)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
-
-书单已经被移动到[awesome-cs-books](https://github.com/CodingDocs/awesome-cs-books) 这个仓库。
-
-> 1. **介绍**：关于 JavaGuide 的相关介绍请看：[关于 JavaGuide 的一些说明](https://www.yuque.com/snailclimb/dr6cvl/mr44yt) 。
-> 2. **PDF版本** ： [《JavaGuide 面试突击版》PDF 版本](#公众号) 。[图解计算机基础 PDF 版](#优质原创PDF资源)。
-> 3. **知识星球** : 简历指导/Java学习/面试指导/面试小册。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=100015911&idx=1&sn=2e8a0f5acb749ecbcbb417aa8a4e18cc&chksm=4ea1b0ec79d639fae37df1b86f196e8ce397accfd1dd2004bcadb66b4df5f582d90ae0d62448#rd) 。星球内部更新的[《Java面试进阶指北  打造个人的技术竞争力》](https://www.yuque.com/docs/share/f37fc804-bfe6-4b0d-b373-9c462188fec7)这个小册的质量很高，专为面试打造。
-> 4. **面试专版** ：准备面试的小伙伴可以考虑面试专版：[《Java 面试进阶指南》](https://xiaozhuanlan.com/javainterview?rel=javaguide) 
-> 6. **转载须知** ：以下所有文章如非文首说明皆为我（Guide哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
-
-<p align="center">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
-	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
-</a>
-</p>
-<p align="center">
-  <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
-  <img src="https://img.shields.io/github/stars/Snailclimb/JavaGuide" alt="投稿">
-  <a href="https://xiaozhuanlan.com/javainterview?rel=javaguide"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
-</p>
-
-
-<h3 align="center">Sponsor</h3>
-
-<table>
-  <tbody>
-    <tr>
-       <td align="center" valign="middle">
-        <a href="https://t.1yb.co/iskv">
-         <img src="./media/sponsor/知识星球.png" style="margin: 0 auto;width:850px" /></a>
-      </td>       
-    </tr>
-  </tbody>
-</table>
 
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 
-- [我在架构设计和代码开发中的一些常用原则](#我在架构设计和代码开发中的一些常用原则)
+- [STAR叙事框架，Situation场景、Target目标、action具体行动、Result结果](#star叙事框架situation场景target目标action具体行动result结果)
+- [架构设计和代码开发常用原则](#架构设计和代码开发常用原则)
 - [大厂面试题汇总](#大厂面试题汇总)
 - [Java](#java)
   - [基础](#基础)
@@ -101,8 +65,8 @@
 
 <!-- /code_chunk_output -->
 
-
-## [我在架构设计和代码开发中的一些常用原则](docs/structure-design.md)
+## STAR叙事框架，Situation场景、Target目标、action具体行动、Result结果
+## [架构设计和代码开发常用原则](docs/structure-design.md)
 ## [大厂面试题汇总](docs/interview.md)
   
 ## Java
