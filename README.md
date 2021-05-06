@@ -84,7 +84,7 @@
 2. [Java 常见关键字总结：final、static、this、super!](docs/java/basis/Java常见关键字总结.md)
 3. [什么是反射机制？反射机制的应用场景有哪些？](docs/java/basis/反射机制.md)
 4. [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/代理模式详解.md)
-5. [常见的 IO 模型有哪些？Java 中的 BIO、NIO、AIO 有啥区别?](https://www.cnblogs.com/javaguide/p/io.html)
+5. [常见的 IO 模型有哪些？Java 中的 BIO、NIO、AIO 有啥区别?](docs/java/basis/IO模型.md)
 
 ### 容器
 
@@ -92,8 +92,6 @@
 2. **源码分析** ：[ArrayList 源码+扩容机制分析](docs/java/collection/ArrayList源码+扩容机制分析.md) 、[LinkedList 源码](docs/java/collection/LinkedList源码分析.md) 、[HashMap(JDK1.8)源码+底层数据结构分析](<docs/java/collection/HashMap(JDK1.8)源码+底层数据结构分析.md>) 、[ConcurrentHashMap 源码+底层数据结构分析](docs/java/collection/ConcurrentHashMap源码+底层数据结构分析.md)
 
 ### 并发
-
-并发这部分内容非常重要，还是面试中的重点中的重点！但是，学习起来难度较大，因此我写了：**[多线程学习指南](./docs/java/multi-thread/多线程学习指南.md)** 帮助你学习。
 
 **知识点/面试题:** (必看 :+1:)
 
@@ -170,7 +168,7 @@
 
 **重要知识点：**
 
-1. [数据库索引总结 1](docs/database/MySQL%20Index.md)、[数据库索引总结 2](docs/database/数据库索引.md)
+1. [MySQL数据库索引总结](docs/database/MySQL数据库索引.md)
 2. [事务隔离级别(图文详解)](<docs/database/事务隔离级别(图文详解).md>)
 3. [一条 SQL 语句在 MySQL 中如何执行的](docs/database/一条sql语句在mysql中如何执行的.md)
 4. [关于数据库中如何存储时间的一点思考](docs/database/关于数据库存储时间的一点思考.md)
@@ -254,7 +252,7 @@ CAP 也就是 Consistency（一致性）、Availability（可用性）、Partiti
 
 **BASE** 是 **Basically Available（基本可用）** 、**Soft-state（软状态）** 和 **Eventually Consistent（最终一致性）** 三个短语的缩写。BASE 理论是对 CAP 中一致性和可用性权衡的结果，其来源于对大规模互联网系统分布式实践的总结，是基于 CAP 定理逐步演化而来的，它大大降低了我们对系统的要求。
 
-关于 CAP 的详细解读请看：[《BASE理论解读》](docs/system-design/distributed-system/BASE理论.md)。
+关于 BASE 的详细解读请看：[《BASE理论解读》](docs/system-design/distributed-system/BASE理论.md)。
 
 #### Paxos 算法和 Raft 算法
 
@@ -375,11 +373,11 @@ Dubbo 是一款国产的 RPC 框架，由阿里开源。相关阅读：
 1. **Java** ：[JAD 反编译](docs/java/JAD反编译tricks.md)、[手把手教你定位常见 Java 性能问题](./docs/java/手把手教你定位常见Java性能问题.md)
 2. **Git** ：[Git 入门](docs/tools/Git.md)
 3. **Github** ： [Github小技巧](docs/tools/Github技巧.md)
-4. **Docker** : [Docker 基本概念解读](docs/tools/Docker.md) 、[一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
+4. **Docker** : [Docker 基本概念解读](docs/tools/Docker.md) 、[Docker从入门到上手干事](docs/tools/Docker从入门到实战.md)
 
 ## Java 学习常见问题汇总
 
-1. [Java 学习路线和方法推荐](docs/questions/java-learning-path-and-methods.md)
+1. [2021最新 Java 学习路线！凎！](https://www.zhihu.com/question/56110328/answer/869069586)
 2. [Java 培训四个月能学会吗？](docs/questions/java-training-4-month.md)
 3. [新手学习 Java，有哪些 Java 相关的博客，专栏，和技术学习网站推荐？](docs/questions/java-learning-website-blog.md)
 4. [Java 还是大数据，你需要了解这些东西！](docs/questions/java-big-data.md)
@@ -420,7 +418,7 @@ Dubbo 是一款国产的 RPC 框架，由阿里开源。相关阅读：
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号“**JavaGuide**”。
 
-**《Java 面试突击》:** 由本文档衍生的专为面试而生的《Java 面试突击》V3.0 PDF 版本[公众号](#公众号)后台回复 **"面试突击"** 即可领取！
+**《Java 面试突击》:** 由本文档衍生的专为面试而生的《Java 面试突击》V4.0 PDF 版本[公众号](#公众号)后台回复 **"面试突击"** 即可领取！
 
 ![我的公众号](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images/2020-08/167598cd2e17b8ec.png)
 
